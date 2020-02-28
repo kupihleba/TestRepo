@@ -1,0 +1,4 @@
+Some data
+123
+Password = "pa(u2AewOu(p7ogh";
+random
